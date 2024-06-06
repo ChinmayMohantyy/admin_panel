@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  margin-left: 80%;
+  /* height: 100vh; Full viewport height */
+}
