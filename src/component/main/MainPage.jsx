@@ -4,7 +4,7 @@ import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
 import Paper from '@mui/material/Paper';
 import Link from '@mui/material/Link';
-import Chart from '@/component/chat';
+import Chart from '@/component/Chat';
 import Deposits from '@/component/Deposits';
 import Orders from '@/component/Orders';
 import { Box, Toolbar } from '@mui/material';
